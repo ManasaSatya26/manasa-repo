@@ -37,7 +37,7 @@ export default function Contact() {
                     <p className="text-xs font-medium uppercase tracking-wide text-stone/60">
                       Phone
                     </p>
-                    <p className="text-stone">+91 XXXXX XXXXX (Placeholder)</p>
+                    <p className="text-stone">+91 95736 76453(Rellu Lakshmi Prasana)</p>
                   </div>
                 </li>
                 <li className="flex items-center gap-3">
@@ -49,7 +49,7 @@ export default function Contact() {
                       Email
                     </p>
                     <p className="text-stone">
-                      lakshmi.prasanna@email.com (Placeholder)
+                      lakshmiprasanarellu@email.com 
                     </p>
                   </div>
                 </li>
@@ -62,7 +62,7 @@ export default function Contact() {
                       Location
                     </p>
                     <p className="text-stone">
-                      Andhra Pradesh, India (Placeholder)
+                     Bhimavaram, Near SRKR Engineering College,Andhra Pradesh
                     </p>
                   </div>
                 </li>

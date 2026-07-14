@@ -9,11 +9,7 @@ const footerLinks = [
   { label: "Contact", href: "#contact" },
 ];
 
-const socialLinks = [
-  { icon: Instagram, label: "Instagram (Placeholder)", href: "#" },
-  { icon: Facebook, label: "Facebook (Placeholder)", href: "#" },
-  { icon: Youtube, label: "YouTube (Placeholder)", href: "#" },
-];
+
 
 export default function Footer() {
   return (
@@ -59,24 +55,6 @@ export default function Footer() {
               ))}
             </ul>
           </nav>
-
-          <div>
-            <h4 className="mb-3 text-sm font-semibold uppercase tracking-wider text-turmeric">
-              Connect
-            </h4>
-            <div className="flex gap-3">
-              {socialLinks.map((social) => (
-                <a
-                  key={social.label}
-                  href={social.href}
-                  aria-label={social.label}
-                  className="flex h-10 w-10 items-center justify-center rounded-full border border-gold/40 text-sandalwood/70 transition-colors hover:border-turmeric hover:text-turmeric"
-                >
-                  <social.icon size={18} aria-hidden="true" />
-                </a>
-              ))}
-            </div>
-          </div>
         </div>
 
         <div className="kolam-divider my-8 opacity-50" aria-hidden="true" />
