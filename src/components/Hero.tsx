@@ -14,14 +14,14 @@ export default function Hero() {
       aria-label="Hero"
     >
       <Image
-        src="/gallery/images/70.jpg"
+        src="/gallery/images/one-drive-70.jpg"
         alt="Classical dance background image"
         fill
         priority
         className="object-cover object-center transform-gpu scale-105 md:scale-110"
         sizes="150vw"
-        style={{ objectPosition: '25% center' }}
-        />
+        style={{ objectPosition: '25% 60%' }}
+      />
 
       <div className="absolute inset-0 bg-kumkum/40" aria-hidden="true" />
 

@@ -108,6 +108,18 @@ export const galleryItems: GalleryItem[] = [
     mediaUrl: "/gallery/images/WhatsApp Image 2026-07-13 at 8.37.02 PM (1).jpeg",
     featured: false,
   },
+  {
+    id: "background",
+    title: "Hero Background",
+    description: "Site hero background image.",
+    type: "image",
+    category: "photos",
+    tags: ["background", "hero"],
+    date: "2026-07-14",
+    thumbnail: "/gallery/images/background.jpg",
+    mediaUrl: "/gallery/images/background.jpg",
+    featured: false,
+  },
  {
     id: "dance-showcase",
     title: "Dance Showcase",
