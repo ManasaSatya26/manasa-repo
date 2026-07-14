@@ -61,12 +61,12 @@ export default function Navbar() {
           href="#hero"
           className="flex items-center gap-2 font-heading text-lg font-semibold text-kumkum transition-colors hover:text-gopuram sm:text-xl"
         >
-          <span className="relative flex h-8 w-8 items-center justify-center overflow-hidden rounded-full border border-gold/30 bg-stone/5">
+          <span className="relative flex h-12 w-12 items-center justify-center overflow-hidden rounded-full border border-gold/30 bg-stone/5">
             <img
               src="/gallery/images/logo.webp"
               alt="Saraswathi Nrithyalaya Logo"
               draggable={false}
-              className="w-[110%] h-[110%] object-cover object-center block"
+              className="w-full h-full object-cover object-center block"
               style={{ display: 'block' }}
             />
           </span>

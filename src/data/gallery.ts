@@ -54,8 +54,8 @@ export const galleryItems: GalleryItem[] = [
     category: "certificates",
     tags: ["Awards", "Saraswathi Nrithyalaya", "Group Photo", "Certification"],
     date: "2026-04-12",
-    thumbnail: "/gallery/images/WhatsApp Image 2026-07-13 at 8.37.02 PM.jpeg",
-    mediaUrl: "/gallery/images/WhatsApp Image 2026-07-13 at 8.37.02 PM.jpeg",
+    thumbnail: "/gallery/images/dance-front.jpeg",
+    mediaUrl: "/gallery/images/dance-front.jpeg",
     featured: true,
   },
   {

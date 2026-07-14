@@ -14,12 +14,12 @@ export default function Hero() {
       aria-label="Hero"
     >
       <Image
-        src="https://images.unsplash.com/photo-1593693397690-362cb2ee5425?w=1920&q=80"
-        alt="Classical Indian dance performance — placeholder hero image"
+        src="/gallery/images/70.jpg"
+        alt="Classical dance background image"
         fill
         priority
         className="object-cover object-center"
-        sizes="100vw"
+        sizes="150vw"
       />
 
       <div className="absolute inset-0 bg-kumkum/60" aria-hidden="true" />
