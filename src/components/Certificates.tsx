@@ -24,7 +24,7 @@ const certificates = [
     src: "/Certificates/lakshmi_prasanna_certificates_1(3).jpg",
   },
   {
-    title: "Guinness World Record",
+    title: "Guinness World Record Certificate",
     alt: "Guinness World Record certificate for R Lakshmi Prasanna",
     src: "/Certificates/lakshmi_prasanna_certificates_1(4).jpg",
   },

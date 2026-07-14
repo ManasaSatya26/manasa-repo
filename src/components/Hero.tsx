@@ -18,11 +18,12 @@ export default function Hero() {
         alt="Classical dance background image"
         fill
         priority
-        className="object-cover object-center"
+        className="object-cover object-center transform-gpu scale-105 md:scale-110"
         sizes="150vw"
-      />
+        style={{ objectPosition: '25% center' }}
+        />
 
-      <div className="absolute inset-0 bg-kumkum/60" aria-hidden="true" />
+      <div className="absolute inset-0 bg-kumkum/40" aria-hidden="true" />
 
       <div
         className="absolute inset-0 opacity-10"
